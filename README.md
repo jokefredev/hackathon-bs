@@ -2,8 +2,8 @@
 Repository Bonding Hackathon 171109
 
 Team
-- J. Frerichs
 - R. Kirchner
+- J. Frerichs
 - 
 - 
 
